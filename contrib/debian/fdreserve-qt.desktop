@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FDReserve
+Comment=FDReserve P2P Cryptocurrency
+Comment[fr]=FDReserve, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FDReserve, eşten eşe kriptografik sanal para birimi
+Exec=fdreserve-qt %u
+Terminal=false
+Type=Application
+Icon=fdreserve128
+MimeType=x-scheme-handler/fdreserve;
+Categories=Office;Finance;
