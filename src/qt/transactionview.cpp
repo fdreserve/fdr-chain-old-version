@@ -130,6 +130,7 @@ TransactionView::TransactionView(QWidget* parent) : QWidget(parent), model(0), t
     QTableView* view = new QTableView(this);
     vlayout->addLayout(hlayout);
     vlayout->addWidget(createDateRangeWidget());
+    view->setStyleSheet("background-color: white;");
     vlayout->addWidget(view);
     vlayout->setSpacing(0);
     int width = view->verticalScrollBar()->sizeHint().width();
