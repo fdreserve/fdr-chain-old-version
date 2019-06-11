@@ -15,7 +15,7 @@ More information at [FDReserve.com](https://www.fdreserve.com/) Visit our [Disco
 ### Coin Specificity
 <table>
 <tr><td>Ticker</td><td>FDR</td></tr>
-<tr><td>Coin Type</td><td>Evolutive MasterNode / PoS</td></tr>
+<tr><td>Coin Type</td><td>Masternodes / POS</td></tr>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds (1440 Blocks / Day)</td></tr>
 <tr><td>Max Block Size</td><td>2 MB (154 Tx / Sec)</td></tr>
